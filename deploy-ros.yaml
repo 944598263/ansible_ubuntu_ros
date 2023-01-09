@@ -1,0 +1,4 @@
+- hosts: all
+  name: roles/ros
+  roles:
+    - role: ros
